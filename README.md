@@ -50,11 +50,11 @@ The following files are not included in the repository due to size:
 
 
 
-\- \[Download trained model](https://drive.google.com/file/d/xxx/view?usp=sharing)
+\- \[Download trained model](https://drive.google.com/file/d/1uWoYz0Qdr2ynRreX7vNQ-DNlY3Zch2r5/view?usp=sharing)
 
-\- \[Download shape predictor](https://drive.google.com/file/d/yyy/view?usp=sharing)
+\- \[Download shape predictor](https://drive.google.com/file/d/1DXmzajk8wEFnqY\_koxauWRBOXxdJ5NlE/view?usp=sharing)
 
-\- \[Download dataset folder](https://drive.google.com/file/d/zzz/view?usp=sharing)
+\- \[Download dataset folder](https://drive.google.com/file/d/1\_zXBEDAWkCPsVkLafFFyi3njL85UK-RR/view?usp=sharing)
 
 
 
