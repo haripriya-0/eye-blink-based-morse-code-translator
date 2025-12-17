@@ -44,3 +44,17 @@ pip install numpy opencv-python dlib scikit-learn
 
 
 
+\## Note on Large Files
+
+The following files are not included in the repository due to size:
+
+
+
+\- \[Download trained model](https://drive.google.com/file/d/xxx/view?usp=sharing)
+
+\- \[Download shape predictor](https://drive.google.com/file/d/yyy/view?usp=sharing)
+
+\- \[Download dataset folder](https://drive.google.com/file/d/zzz/view?usp=sharing)
+
+
+
