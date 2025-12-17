@@ -1,0 +1,10 @@
+# ML / DL models
+*.pkl
+*.dat
+
+# Dataset files
+dataset/
+*.npy
+
+# Python cache
+__pycache__/
